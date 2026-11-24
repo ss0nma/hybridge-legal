@@ -1,3 +1,4 @@
 # HYBRIDGE · legal
 
-Política de privacidade do app HYBRIDGE: https://ss0nma.github.io/hybridge-legal/privacidade.html
+- Política de privacidade: https://ss0nma.github.io/hybridge-legal/privacidade.html
+- Suporte: https://ss0nma.github.io/hybridge-legal/suporte.html
